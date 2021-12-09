@@ -1,0 +1,14 @@
+D:\C#\Sigleton\Sigleton\bin\Debug\netcoreapp3.1\Sigleton.exe
+D:\C#\Sigleton\Sigleton\bin\Debug\netcoreapp3.1\Sigleton.deps.json
+D:\C#\Sigleton\Sigleton\bin\Debug\netcoreapp3.1\Sigleton.runtimeconfig.json
+D:\C#\Sigleton\Sigleton\bin\Debug\netcoreapp3.1\Sigleton.runtimeconfig.dev.json
+D:\C#\Sigleton\Sigleton\bin\Debug\netcoreapp3.1\Sigleton.dll
+D:\C#\Sigleton\Sigleton\bin\Debug\netcoreapp3.1\Sigleton.pdb
+D:\C#\Sigleton\Sigleton\obj\Debug\netcoreapp3.1\Sigleton.csproj.AssemblyReference.cache
+D:\C#\Sigleton\Sigleton\obj\Debug\netcoreapp3.1\Sigleton.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\Sigleton\Sigleton\obj\Debug\netcoreapp3.1\Sigleton.AssemblyInfoInputs.cache
+D:\C#\Sigleton\Sigleton\obj\Debug\netcoreapp3.1\Sigleton.AssemblyInfo.cs
+D:\C#\Sigleton\Sigleton\obj\Debug\netcoreapp3.1\Sigleton.csproj.CoreCompileInputs.cache
+D:\C#\Sigleton\Sigleton\obj\Debug\netcoreapp3.1\Sigleton.dll
+D:\C#\Sigleton\Sigleton\obj\Debug\netcoreapp3.1\Sigleton.pdb
+D:\C#\Sigleton\Sigleton\obj\Debug\netcoreapp3.1\Sigleton.genruntimeconfig.cache

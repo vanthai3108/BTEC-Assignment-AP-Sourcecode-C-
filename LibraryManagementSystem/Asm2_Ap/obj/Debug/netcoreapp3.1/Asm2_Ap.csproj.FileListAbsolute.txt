@@ -1,0 +1,14 @@
+C:\Users\Admin\source\repos\Asm2_Ap\Asm2_Ap\bin\Debug\netcoreapp3.1\Asm2_Ap.exe
+C:\Users\Admin\source\repos\Asm2_Ap\Asm2_Ap\bin\Debug\netcoreapp3.1\Asm2_Ap.deps.json
+C:\Users\Admin\source\repos\Asm2_Ap\Asm2_Ap\bin\Debug\netcoreapp3.1\Asm2_Ap.runtimeconfig.json
+C:\Users\Admin\source\repos\Asm2_Ap\Asm2_Ap\bin\Debug\netcoreapp3.1\Asm2_Ap.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\Asm2_Ap\Asm2_Ap\bin\Debug\netcoreapp3.1\Asm2_Ap.dll
+C:\Users\Admin\source\repos\Asm2_Ap\Asm2_Ap\bin\Debug\netcoreapp3.1\Asm2_Ap.pdb
+C:\Users\Admin\source\repos\Asm2_Ap\Asm2_Ap\obj\Debug\netcoreapp3.1\Asm2_Ap.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\Asm2_Ap\Asm2_Ap\obj\Debug\netcoreapp3.1\Asm2_Ap.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\Asm2_Ap\Asm2_Ap\obj\Debug\netcoreapp3.1\Asm2_Ap.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\Asm2_Ap\Asm2_Ap\obj\Debug\netcoreapp3.1\Asm2_Ap.AssemblyInfo.cs
+C:\Users\Admin\source\repos\Asm2_Ap\Asm2_Ap\obj\Debug\netcoreapp3.1\Asm2_Ap.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Asm2_Ap\Asm2_Ap\obj\Debug\netcoreapp3.1\Asm2_Ap.dll
+C:\Users\Admin\source\repos\Asm2_Ap\Asm2_Ap\obj\Debug\netcoreapp3.1\Asm2_Ap.pdb
+C:\Users\Admin\source\repos\Asm2_Ap\Asm2_Ap\obj\Debug\netcoreapp3.1\Asm2_Ap.genruntimeconfig.cache
